@@ -37,19 +37,19 @@ public class Main {
 //
 ////
 //
-//        Scanner light = new Scanner(System.in);
-//        System.out.print("신호등 색깔을 입력하세요:");
-//         String g = light.next();
-//
-//        if (g.equals("초록불")){
-//            System.out.println("건너세요");
-//        }else if (g.equals("노란불")){
-//            System.out.println("주의 하세요");
-//        }else if (g.equals("빨간불")){
-//            System.out.println("멈추세요");
-//        } else{
-//            System.out.println("올바른 색을 입력하세요");
-//        }
+        Scanner light = new Scanner(System.in);
+        System.out.print("신호등 색깔을 입력하세요:");
+         String g = light.next();
+
+        if (g.equals("초록불")){
+            System.out.println("건너세요");
+        }else if (g.equals("노란불")){
+            System.out.println("주의 하세요");
+        }else if (g.equals("빨간불")){
+            System.out.println("멈추세요");
+        } else{
+            System.out.println("올바른 색을 입력하세요");
+        }
 //
 //        Scanner number = new Scanner(System.in);
 //        int c = 1 + 1;
@@ -77,6 +77,15 @@ public class Main {
         System.out.println("b++:" + b++);
         System.out.println(b);
 
+        int e = 3;
+
+        if (e == 3){
+        }
+        System.out.println("사실입니다");
+        if (e == 2){
+        }else {
+            System.out.println("거짓입니다");
+        }
 
 
     }
