@@ -1,5 +1,7 @@
 package g1;
 
+import java.util.Scanner;
+
 public class codekata {
     public static void main(String[] args) {
 //        int a = 5;
@@ -7,12 +9,34 @@ public class codekata {
 //     int c = a - b;
 //        System.out.println(c);
 //
-        int a = 7;
-        int b = 3;
+//        int a = 7;
+//        int b = 3;
+//
+//        int  c = a * b;
+//        System.out.println(c);
+       
+       
+            int age; 
+            int answer = 0;
+            int year = 2022;
+            age = 40;
+            answer = year - age + 1;
+        System.out.println(answer);
 
-        int  c = a * b;
-        System.out.println(c);
+            
+        }
 
-    }
 
-}
+        }
+
+        
+            
+        
+        
+        
+
+        
+
+    
+
+

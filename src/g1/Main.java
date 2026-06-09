@@ -16,11 +16,11 @@ public class Main {
 //        boolean isStudent = false;
 //        System.out.println("isStudent = " + isStudent);
 
-    int a =  1;
-    int b = 2;
-
-int  c = a * b;
-System.out.println(c);
+//    int a =  1;
+//    int b = 2;
+//
+//int  c = a * b;
+//System.out.println(c);
 
 
 
