@@ -22,17 +22,23 @@ public class codekata {
 //            age = 40;
 //            answer = year - age + 1;
 //        System.out.println(answer);
-                int sol;
-                int num1 = 3;
-                int num2 = 3;
+//                int sol;
+//                int num1 = 3;
+//                int num2 = 3;
+//
+//                if(num1 == num2){
+//                    System.out.println("1");
+//                } else {
+//                    System.out.println("-1");
+//                }
+//
+//
+                  double a = 3;
+                  double b = 2;
 
-                if(num1 == num2){
-                    System.out.println("1");
-                } else {
-                    System.out.println("-1");
-                }
+                  double c = a / b * 1000;
+                  System.out.println(c);
 
-                //dldldl
 
 
 
