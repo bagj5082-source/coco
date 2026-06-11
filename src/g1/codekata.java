@@ -35,10 +35,18 @@ public class codekata {
 //
                   double a = 3;
                   double b = 2;
-
                   double c = a / b * 1000;
                   System.out.println(c);
 
+                  double a1 = 7;
+                  double b1 = 3;
+                  double c1 = a1 / b1 * 1000;
+                  System.out.println(c1);
+
+                  double a2 = 1;
+                  double b2 = 16;
+                  double c2 = a2 / b2 * 1000;
+                  System.out.println(c2);
 
 
 
