@@ -3,6 +3,7 @@ package g1;
 import java.util.Scanner;
 
 public class codekata {
+
     public static void main(String[] args) {
 //        int a = 5;
 //     int b = 3;
@@ -33,20 +34,43 @@ public class codekata {
 //                }
 //
 //
-                  double a = 3;
-                  double b = 2;
-                  double c = a / b * 1000;
-                  System.out.println(c);
+//                  double a = 3;
+//                  double b = 2;
+//                  double c = a / b * 1000;
+//                  System.out.println(c);
+//
+//                  double a1 = 7;
+//                  double b1 = 3;
+//                  double c1 = a1 / b1 * 1000;
+//                  System.out.println(c1);
+//
+//                  double a2 = 1;
+//                  double b2 = 16;
+//                  double c2 = a2 / b2 * 1000;
+//                  System.out.println(c2);
 
-                  double a1 = 7;
-                  double b1 = 3;
-                  double c1 = a1 / b1 * 1000;
-                  System.out.println(c1);
 
-                  double a2 = 1;
-                  double b2 = 16;
-                  double c2 = a2 / b2 * 1000;
-                  System.out.println(c2);
+
+                    String an = "";
+
+                    for(int i = 1; i <= 3; i++){
+                        an = an + "h";
+                    }
+                    for(int i = 1; i <= 3; i++){
+                        an = an + "e";
+                    }
+                    for(int i = 1; i <= 3; i++){
+                        an = an + "l";
+                    }
+                    for(int i = 1; i <= 3; i++){
+                        an = an + "l";
+                    }
+                    for(int i = 1; i <= 3; i++){
+                        an = an + "o";
+                    }
+                    System.out.println(an);
+
+    }
 
 
 
@@ -56,7 +80,7 @@ public class codekata {
 
             
 
-}
+
 
 
 
